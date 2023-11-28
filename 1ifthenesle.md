@@ -3,7 +3,7 @@
 #####################
 # Author:SaiRupa
 # Date:11/27/2023
-# Description: Simple script to see if directory exists
+# Description: Simple script to see if then else
 # Version:V1
 ####################
 set -x
