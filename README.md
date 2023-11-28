@@ -20,3 +20,10 @@ sudo su - (Change to root)
 loops  
 find
 trap  
+
+**tips:**
+sh <scriptname>  (to execute)
+dir exists ( initial slash need to be removed from path )
+:set number in vi editor to see the line numbers
+shellcheck is useful in finding out syntax related issues.
+
