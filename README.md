@@ -18,7 +18,7 @@ wget downloads the file - curl directly gets infor  . If we don't want to store 
 find / 
 sudo su - (Change to root)  
 loops  
-find  
+find   sudo find / -name <name of file>
 trap 
 sed  replace text in files
 
