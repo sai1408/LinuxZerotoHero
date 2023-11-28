@@ -22,8 +22,12 @@ find
 trap  
 
 **tips:**
-sh <scriptname>  (to execute)
-dir exists ( initial slash need to be removed from path )
-:set number in vi editor to see the line numbers
-shellcheck is useful in finding out syntax related issues.
+sh <scriptname>  (to execute)  
+dir exists -d ( initial slash need to be removed from path )  
+file exists -f
+-e can be used for either dir or file  
+if loop comparison use -lt
+:set number in vi editor to see the line numbers  
+shellcheck is useful in finding out syntax related issues.  
+
 
