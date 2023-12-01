@@ -31,4 +31,7 @@ if loop comparison use -lt
 :set number in vi editor to see the line numbers  
 shellcheck is useful in finding out syntax related issues.  
 
+for loop was not printing properly 9prints {1..10} instead of actual numbers if I try to execute sh <scriptname>. It has to be executed with bash <scriptname> or source <scriptname> 
+
+
 
