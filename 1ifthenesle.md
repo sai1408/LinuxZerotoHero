@@ -17,3 +17,5 @@ then
 else
         echo "b is small"
 fi
+
+### space before and after [ ] is important!
