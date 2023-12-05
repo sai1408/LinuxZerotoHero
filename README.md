@@ -29,7 +29,11 @@ file exists -f
 -e can be used for either dir or file  
 if loop comparison use -lt
 :set number in vi editor to see the line numbers  
-shellcheck is useful in finding out syntax related issues.  
+shellcheck is useful in finding out syntax related issues.   
+
+| more at the end gives easy readability if we have more lines of output 
+jq is for json processing and yq is for yaml processing
+
 
 for loop was not printing properly 9prints {1..10} instead of actual numbers if I try to execute sh <scriptname>. It has to be executed with bash <scriptname> or source <scriptname> 
 
