@@ -23,6 +23,7 @@ loops
 find   sudo find / -name <name of file>
 trap  
 sed  replace text in files  
+kill -9 <process id>
 
 **tips:**
 sh <scriptname>  (to execute)  
