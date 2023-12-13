@@ -24,6 +24,10 @@ find   sudo find / -name <name of file>
 trap  
 sed  replace text in files  
 kill -9 <process id>
+traceroute <URL>  
+tracepath <URL>  
+logrotate 
+sort 
 
 **tips:**
 sh <scriptname>  (to execute)  
