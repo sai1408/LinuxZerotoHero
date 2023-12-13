@@ -12,15 +12,17 @@ ps -ef (process show entire details in format)
 ps -ef | grep amazon  
 ps -ef | grep amazon | aws -F" " '{print $2}'
 
+awk is for filtering out to specific column from more lines of results  
+
 curl <URL>  
 curl <URL> | grep ERROR 
 wget downloads the file - curl directly gets infor  . If we don't want to store in local use curl
 find / 
-sudo su - (Change to root)  
+sudo su - (Change to root)  [ -sustitute user do
 loops  
 find   sudo find / -name <name of file>
-trap 
-sed  replace text in files
+trap  
+sed  replace text in files  
 
 **tips:**
 sh <scriptname>  (to execute)  
