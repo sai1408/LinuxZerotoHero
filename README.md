@@ -28,6 +28,8 @@ traceroute <URL>
 tracepath <URL>  
 logrotate 
 sort 
+ls -la [ hidden files]
+ls <foldername>  
 
 **tips:**
 sh <scriptname>  (to execute)  
