@@ -82,6 +82,10 @@ Display the first  lines of an input file.
 head -n 20
 #17.In this challenge, we practice using the head command to display the first  characters of a text file.
 head -c 20
+#18.Display the last  lines of an input file.
+tail -n 20
+#20.Display the last 20 characters of an input file
+tail -c 20
 
 
 
